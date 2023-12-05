@@ -1,19 +1,10 @@
-# Building
+# OrangeItemId
 
-* [Gradle](https://gradle.org/) - Dependency Management
+* 快捷获取你手上物品的ID并复制到聊天栏中
 
-The GradleWrapper in included in this project.
 
-**Windows:**
+**构建**
 
 ```
 gradlew.bat clean build
 ```
-
-**macOS/Linux:**
-
-```
-./gradlew clean build
-```
-
-Build artifacts should be found in `./build/libs` folder.
